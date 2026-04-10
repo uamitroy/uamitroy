@@ -1,16 +1,16 @@
-# Hi 👋
+# Full Stack Developer
 
-I'm a Full Stack Developer with experience since 2016, working across backend systems, APIs, and scalable web applications.
+Full Stack Developer with experience since 2016, working across backend systems, APIs, and scalable web applications.
 
-This repository highlights my technical background and the type of systems I’ve built and worked on over the years.
+This repository represents technical expertise and experience in building, maintaining, and improving software systems across multiple domains.
 
 ---
 
-## About Me
+## About
 
-I specialize in building and improving backend systems with a focus on clean architecture, performance, and long-term maintainability.
+Specializes in backend system development with a focus on clean architecture, performance, and long-term maintainability.
 
-My experience includes working on web applications, e-commerce platforms, and API-driven systems. I’ve been involved in refactoring existing codebases, designing scalable services, and integrating third-party solutions to support business workflows.
+Experience includes working on web applications, e-commerce platforms, and API-driven systems. Strong background in refactoring existing codebases, designing scalable services, and integrating third-party solutions to support business workflows.
 
 ---
 
