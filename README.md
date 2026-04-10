@@ -9,7 +9,7 @@ As a seasoned full-stack developer since 2016, I bring a wealth of knowledge and
 ## Technologies Used
 
 - **Front-end**: Bootstrap, CSS, HTML5, React, Angular, jQuery
-- **Back-end**: PHP, Laravel, CodeIgniter, Node.js
+- **Back-end**: PHP, Laravel, CodeIgniter,Go, Node.js
 - **Databases**: SQL/PL SQL, NoSQL
 - **Web Services**: RESTful APIs
 - **Payment Gateways**: Stripe, Paypal, RazorPay, Paytm, GooglePay, HyperPay, Flutterwave
