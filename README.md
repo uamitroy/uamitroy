@@ -1,58 +1,69 @@
-# Hi there👋
+# Hi 👋
 
-Welcome to my Full Stack Developer Portfolio repository! This repository showcases my extensive experience and expertise spanning since 2016, covering analysis, design, development, and architecture across various technologies and platforms.
+I'm a Full Stack Developer with experience since 2016, working across backend systems, APIs, and scalable web applications.
 
-## Introduction
-
-As a seasoned full-stack developer since 2016, I bring a wealth of knowledge and skills in front-end and back-end technologies, design principles, and project management. This portfolio serves as a testament to my proficiency and showcases my contributions to a diverse range of projects, from web applications to e-commerce websites.
-
-## Technologies Used
-
-- **Front-end**: Bootstrap, CSS, HTML5, React, Angular, jQuery
-- **Back-end**: PHP, Laravel, CodeIgniter,Go, Node.js
-- **Databases**: SQL/PL SQL, NoSQL
-- **Web Services**: RESTful APIs
-- **Payment Gateways**: Stripe, Paypal, RazorPay, Paytm, GooglePay, HyperPay, Flutterwave
-- **Third-party APIs/SDKs**: Google, Facebook, Twilio, PubNub, Wufoo, Jotform, CallRails, Zoho, Apex/Twak Chat, Twitter, LinkedIn, HubSpot, SendGrid
-- **Version Control**: Git, GitHub, GitLab, Bitbucket
-- **Other Tools**: Apache, Webhook, Cron Job, SSH, FTP, Terminal
-
-## Key Skills
-
-- Strong analytical and design skills
-- Proficient in all phases of SDLC
-- Excellent communication and interpersonal skills
-- Ability to manage teams and client-side requirements
-- Expertise in API-driven design with versioning
-- Open-source contributions
-- Experience in e-commerce and web application development
-
-## Experience Highlights
-
-- Led analysis, design, and development efforts for various projects, ensuring alignment with customer specifications and SDLC best practices.
-- Worked extensively with front-end technologies like Bootstrap, CSS, HTML5, React, Angular, and jQuery to create visually appealing and highly functional user interfaces.
-- Developed robust back-end solutions using PHP, Laravel, CodeIgniter, Node.js, and integrated with SQL/PL SQL and NoSQL databases.
-- Integrated and configured various payment gateways including Stripe, Paypal, RazorPay, and more to enable secure and seamless transactions.
-- Leveraged third-party APIs and SDKs such as Google, Facebook, Twilio, and SendGrid to enhance application functionality and user experience.
-- Contributed to open-source PHP libraries, fostering collaboration and innovation within the developer community.
-
-## Projects
-
-Below are a few highlighted projects I've worked on:
-
-1. **E-commerce Website**: Led the development of a scalable e-commerce platform using Laravel and React, integrated with Stripe and Paypal for payment processing.
-
-2. **Web Application for Real-time Chat**: Built a real-time chat application using Node.js, PubNub, and React, enabling seamless communication among users.
-
-3. **Integration with CRM Systems**: Developed custom integrations with CRM systems like Zoho and HubSpot to streamline lead management processes.
-
-## Contributions
-
-I believe in continuous learning and collaboration. Check out some of my open-source contributions on GitHub [here](https://github.com/sramitroy/guruji-dashboard).
-
-## Contact
-
-Thank you for exploring my portfolio! If you have any inquiries or would like to discuss potential collaborations.
+This repository highlights my technical background and the type of systems I’ve built and worked on over the years.
 
 ---
-Best
+
+## About Me
+
+I specialize in building and improving backend systems with a focus on clean architecture, performance, and long-term maintainability.
+
+My experience includes working on web applications, e-commerce platforms, and API-driven systems. I’ve been involved in refactoring existing codebases, designing scalable services, and integrating third-party solutions to support business workflows.
+
+---
+
+## Tech Stack
+
+**Backend**
+- Go, PHP (Laravel, CodeIgniter), Node.js
+
+**Frontend**
+- React, Angular, JavaScript, HTML5, CSS, Bootstrap, jQuery
+
+**Databases**
+- MySQL, PostgreSQL, PL/SQL, NoSQL
+
+**APIs & Integrations**
+- REST APIs, Webhooks  
+- Stripe, Razorpay, PayPal, Paytm, Google Pay, HyperPay, Flutterwave  
+- Twilio, PubNub, Wufoo, Jotform, CallRails  
+- Zoho, HubSpot, SendGrid  
+- Google, Facebook, Twitter, LinkedIn APIs  
+
+**Cloud & DevOps**
+- AWS (EC2, S3, deployment workflows)  
+- Docker (containerization and environment setup)  
+- Linux, SSH, Cron Jobs  
+- Apache, Nginx  
+
+**Tools & Version Control**
+- Git (GitHub, GitLab, Bitbucket)  
+- FTP, Terminal  
+
+---
+
+## Core Focus
+
+- Refactoring and improving existing codebases  
+- Writing clean, maintainable, and scalable backend services  
+- API design and third-party integrations  
+- Implementing testing for reliability  
+- Performance optimization and debugging  
+- Building systems aligned with production best practices  
+
+---
+
+## Selected Work
+
+- **E-commerce Platform**  
+  Developed and maintained backend systems with integrated payment workflows, focusing on performance and reliability.
+
+- **Real-time Features**  
+  Implemented real-time communication features using event-driven approaches and external services.
+
+- **API Integrations**  
+  Built and maintained integrations with external platforms to streamline data flow and business processes.
+
+---
