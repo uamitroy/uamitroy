@@ -52,7 +52,7 @@ I believe in continuous learning and collaboration. Check out some of my open-so
 
 ## Contact
 
-Thank you for exploring my portfolio! If you have any inquiries or would like to discuss potential collaborations, feel free to reach out to me at [uamitroy@gmail.com](mailto:uamitroy@gmail.com).
+Thank you for exploring my portfolio! If you have any inquiries or would like to discuss potential collaborations.
 
 ---
-Kind Regards
+Best
